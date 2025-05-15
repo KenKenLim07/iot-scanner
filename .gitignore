@@ -1,0 +1,30 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.Python
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Reports & logs
+reports/*.json
+*.log
+
+# Python environment variables or secrets
+*.env
+
+# SQLite or other DBs (if using)
+*.sqlite3
+*.db
+
+# Backup files
+*.bak
+*.swp
