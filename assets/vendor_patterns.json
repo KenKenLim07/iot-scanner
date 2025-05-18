@@ -1,0 +1,74 @@
+{
+    "TP-LINK": [
+        "TP-LINK",
+        "TPLink",
+        "tp-link",
+        "TP-Link",
+        "Tenda",
+        "tenda"
+    ],
+    "HUAWEI": [
+        "Huawei",
+        "HUAWEI",
+        "huawei",
+        "Honor",
+        "HONOR"
+    ],
+    "D-LINK": [
+        "D-Link",
+        "DLink",
+        "d-link",
+        "Dlink",
+        "D-LINK"
+    ],
+    "CISCO": [
+        "Cisco",
+        "CISCO",
+        "cisco",
+        "Linksys",
+        "LINKSYS",
+        "Meraki",
+        "MERAKI"
+    ],
+    "ZTE": [
+        "ZTE",
+        "Zte",
+        "zte",
+        "ZTE Corporation"
+    ],
+    "NETGEAR": [
+        "NETGEAR",
+        "Netgear",
+        "netgear",
+        "NETGEAR Inc"
+    ],
+    "XIAOMI": [
+        "Xiaomi",
+        "XIAOMI",
+        "xiaomi",
+        "Mi",
+        "MI",
+        "Redmi",
+        "REDMI"
+    ],
+    "ASUS": [
+        "ASUS",
+        "Asus",
+        "asus",
+        "ASUSTeK",
+        "ASUS Computer"
+    ],
+    "TENDA": [
+        "Tenda",
+        "TENDA",
+        "tenda",
+        "Tenda Technology"
+    ],
+    "UBIQUITI": [
+        "Ubiquiti",
+        "UBIQUITI",
+        "ubiquiti",
+        "UniFi",
+        "UNIFI"
+    ]
+} 

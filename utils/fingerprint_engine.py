@@ -1,4 +1,6 @@
-# fingerprint.py
+"""
+Fingerprint engine for device identification and vendor detection.
+"""
 
 import requests
 
@@ -11,4 +13,4 @@ def get_vendor_from_mac(mac):
             return response.text
     except:
         pass
-    return "Unknown Vendor"
+    return "Unknown Vendor" 
